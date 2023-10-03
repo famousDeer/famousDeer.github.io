@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: Famousdeer homepage
 description: Strony z CNN
+footer-links:
+  email: dawidtrzcinski1@gmail.com
